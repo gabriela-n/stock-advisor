@@ -1,4 +1,4 @@
-# Stock Advisor
+# FortuneTeller
 ### **StockGuru Ultra Pro Max Turbo Master**  
 Trading assistant for data-driven decisions 📈    
 [![lil_swag](https://cdn3.emoji.gg/emojis/5537_lil_swag.gif)](https://emoji.gg/emoji/5537_lil_swag)  
