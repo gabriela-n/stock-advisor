@@ -1,0 +1,130 @@
+/* Main container */
+.stApp {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Headers */
+h1, h2, h3 {
+    color: #ffa6c9;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+/* Stock input */
+.stTextInput > div > div > input {
+    background-color: #262730;
+    color: white;
+    border: 1px solid #ffa6c9;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    padding: 0.5rem 1rem;
+}
+
+/* Buttons */
+.stButton > button {
+    background-color: #ffa6c9;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    font-weight: 600;
+    width: 100%;
+    transition: background-color 0.3s ease;
+}
+
+.stButton > button:hover {
+    background-color: #b2748c;
+}
+
+/* Expander */
+.streamlit-expanderHeader {
+    background-color: #262730;
+    border: 1px solid #ffa6c9;
+}
+
+/* Charts */
+.js-plotly-plot {
+    background-color: #0E1117;
+    border-radius: 5px;
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+/* Loading spinner */
+.stSpinner > div {
+    border-top-color: #ffa6c9;
+}
+
+/* Alerts */
+.stAlert {
+    background-color: #262730;
+    border: 1px solid #ffa6c9;
+    color: white;
+    border-radius: 5px;
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+/* Sidebar */
+.css-1d391kg {
+    background-color: #262730;
+    padding: 2rem 1rem;
+}
+
+/* Radio buttons */
+.stRadio > div {
+    background-color: #262730;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+/* Tabs */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.stTabs [data-baseweb="tab"] {
+    background-color: #262730;
+    border: 1px solid #ffa6c9;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    color: white;
+}
+
+.stTabs [data-baseweb="tab"][aria-selected="true"] {
+    background-color: #ffa6c9;
+}
+
+/* Metrics */
+.stMetric {
+    background-color: #262730;
+    padding: 1rem;
+    border-radius: 5px;
+    border: 1px solid #ffa6c9;
+}
+
+/* Select boxes */
+.stSelectbox > div > div {
+    background-color: #262730;
+    border: 1px solid #ffa6c9;
+    border-radius: 5px;
+}
+
+/* Info boxes */
+.stInfo {
+    background-color: rgba(38, 39, 48, 0.8);
+    border-radius: 5px;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+/* Grid layout for favorites */
+.stColumns > div {
+    background-color: #262730;
+    border: 1px solid #ffa6c9;
+    border-radius: 5px;
+    padding: 1rem;
+    margin: 0.5rem;
+}
