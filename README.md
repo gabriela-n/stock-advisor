@@ -1,10 +1,10 @@
 # FortuneTeller
-### **StockGuru Ultra Pro Max Turbo Master**  
+### **Stock Guru Ultra Pro Max Turbo Master**  
 Trading assistant for data-driven decisions 📈    
 [![lil_swag](https://cdn3.emoji.gg/emojis/5537_lil_swag.gif)](https://emoji.gg/emoji/5537_lil_swag)  
 
 ### tf is this?  
-**StockGuru Ultra Pro Max Turbo Master** is a Python-based tool, designed for stock traders. It provides smart stock recommendations to help you decide if a stock is fr hot or just hyped. It is based on real-time and historical data, advanced financial metrics, and even news sentiment (because headlines like “Company’s CEO Goes to Jail” matter).  
+**FortuneTeller** is a Python-based tool, designed for stock traders. It provides smart stock recommendations to help you decide if a stock is fr hot or just hyped. It is based on real-time and historical data, advanced financial metrics, and even news sentiment (because headlines like “Company’s CEO Goes to Jail” matter).  
 
 ## Functionalities  
 
